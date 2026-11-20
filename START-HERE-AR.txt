@@ -1,0 +1,13 @@
+HUSSEIN BADR ENGLISH — WEBSITE PACKAGE
+
+اسم المستودع الجديد المقترح: hussein-badr-english
+
+1) فك ضغط الملف أولًا.
+2) افتح المجلد الناتج.
+3) ارفع جميع المحتويات إلى جذر مستودع GitHub جديد (وليس ملف ZIP نفسه).
+4) يجب أن يكون index.html بجانب مجلد assets مباشرة.
+5) Settings > Pages > Deploy from a branch > main > /(root).
+
+ألوان البراند: #102B4C / #FFD447 / #FFFFFF / #7598BD / #F5F7FA
+الموقع ثابت HTML/CSS/JavaScript ولا يحتاج إلى Backend أو Build.
+راجع docs/PUBLISH-NEW-REPOSITORY-AR.md للتعليمات الكاملة.
